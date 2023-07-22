@@ -10,7 +10,9 @@ Apta-MCTS (https://github.com/leekh7411/Apta-MCTS) generates a large number of p
 2. Clustering by Pairwise Tamura-Nei Score:
    
 3. Kill-Neighbors:
+
+4. Kill-Neighbors(Operationalized): 
    
-4. Real Data (12b):
+5. Application to Real Data (12b):
    
-5. Real Data (15b):
+6. Application to Real Data (15b):
